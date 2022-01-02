@@ -16,4 +16,3 @@ utils.o: utils.c
 
 clean:
 	rm -f *.o client
-	rm files/*
